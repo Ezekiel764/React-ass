@@ -1,0 +1,12 @@
+.profilecard{
+    width: 80px;
+    height: 140px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+.Card{
+    width: 25px;
+    height: 80px;
+    border-radius:20px ;
+    background-color: antiquewhite;
+}
